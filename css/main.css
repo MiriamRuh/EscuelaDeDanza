@@ -1,0 +1,122 @@
+.pres{
+	background-image: url(../img/dance_1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 430px;
+	margin-top: 3%;
+}
+
+.studio{
+	margin-top: 20%;
+	color: #F8F8FF;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.studio1{
+	color: #F8F8FF;
+}
+
+.centro{
+	padding-top: 5%;
+	text-align: center;
+	color: ;
+	font-weight: bold;
+}
+
+.img{
+	width: 160px;
+	height: 120px;
+	margin-bottom: 20px;
+}
+
+.inscbotom{
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	background-color: #C0C0C0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.instructores{
+	background-image: url(../img/instructor_4.jpg);
+	margin-top: 5%;
+	height: 360px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	display: inline-block;
+	position: relative;
+}
+
+.instructora{
+	background-image: url(../img/profesor_9.jpg);
+	margin-top: 5%;
+	height: 360px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	display: inline-block;
+	position: relative;
+}
+
+.instrucbotom{
+	margin-top: -70px;
+	margin-left: 20%;
+	font-weight: bold;
+	font-size: 22px;
+	background-color: #C0C0C0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.tit2{
+	color: #192951;
+	text-align: center;
+	font-size: 35px;
+	font-family: dolcevita;
+	src: url(../fonts/DolceVita-Light.ttf);
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.azul{
+	background-color: gray;
+	background-size: 100%;
+	min-height: 350px;
+	padding-top: 5%;
+}
+
+.visit{
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.tamano{
+	width: 500px;
+	height: 200px;
+}
+
+.instrucbotomcont{
+	font-weight: bold;
+	font-size: 22px;
+	background-color: #C0C0C0;
+	margin-left: 25%;
+	margin-top: 50px;
+	padding-top: 9px;
+	padding-bottom: 9px;  
+}
+
+.instrucbotom1{
+	margin-left: 25%;
+	font-weight: bold;
+	font-size: 22px;
+	background-color: #C0C0C0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+
+

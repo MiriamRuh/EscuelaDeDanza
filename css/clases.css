@@ -1,0 +1,52 @@
+.tex{
+	text-align: center;
+	color: #192951;
+	font-weight: bold;
+}
+
+.bac{
+	background-image: url(../img/gris-claro.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 5%;
+	padding-top: 3%;
+	min-height: 520px;
+}
+
+.bac0{
+	background-image: url(../img/gris-claro.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding-bottom: 3%;
+	min-height: 500px;
+}
+.bac1{
+	width: 100%;
+	height:400px;
+	margin-top: 5%;
+}
+
+.ballet{
+	background-color: black;
+	width: 70%;
+	height: 100px; 
+	opacity: 0.4;
+	margin: auto;
+	margin-top: -250px;
+}
+
+.texbal{
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+.instrucbotomcont{
+	font-weight: bold;
+	font-size: 22px;
+	background-color: #C0C0C0;
+	margin-left: 25%;
+	margin-top: 50px;
+	padding-top: 9px;
+	padding-bottom: 9px;  
+}
